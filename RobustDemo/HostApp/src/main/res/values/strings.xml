@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HostApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_fourth">FourthActivity</string>
+
+    <string name="string1">FourthActivity</string>
+</resources>
